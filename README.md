@@ -1,2 +1,2 @@
 # Championship
-A simple project of the University
+University project
